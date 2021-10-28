@@ -1,1 +1,5 @@
-hello mansi
+N=input("are u hungry")
+if yes:
+  print("eat momos")
+else:
+  print("do u r work")
